@@ -57,7 +57,6 @@ class MyStatelessWidget extends StatelessWidget {
             DataCell(Text('25-30')),
           ],
         ),
-        
       ],
     );
   }
