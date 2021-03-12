@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
     return Scaffold(
-      appBar: AppBar(title: Text('titlePage')),
+      appBar: AppBar(title: Text('SeatiZen')),
       body: MyStatelessWidget(),
     );
   }
